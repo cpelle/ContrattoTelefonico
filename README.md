@@ -7,4 +7,4 @@ Scrivere una classe in java che rappresenti il concetto di “Contratto telefoni
 
 Creare una classe UsaContratto che contenga un metodo main() che istanzi un oggetto di tipo Contratto e stampi il costo e le caratteristiche dell’oggetto appena creato.
 	
-[maggiori informazioni sulla sfida le puoi trovare qui](https://www.cpelle.it/didattica/page9.html)
+[maggiori informazioni sulla sfida le puoi trovare qui](https://www.cpelle.it/didattica/page9.html)https://www.cpelle.it/didattica/page9.html
